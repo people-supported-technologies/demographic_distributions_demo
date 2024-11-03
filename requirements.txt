@@ -1,0 +1,11 @@
+shiny
+shinywidgets
+numpy
+pandas
+matplotlib
+plotly
+seaborn
+requests
+IPython
+ipykernel
+rsconnect-python

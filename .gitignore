@@ -1,0 +1,11 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore pycache
+__pycache__/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore dotenv files containing secret keys
+.env
