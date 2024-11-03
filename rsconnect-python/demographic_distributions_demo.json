@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "/Users/niccolo/Documents/PSi/dasboard_demo/demographic_distributions_demo",
+        "app_url": "https://psitech.shinyapps.io/demographic_distributions_demo/",
+        "app_id": 13216152,
+        "app_guid": null,
+        "title": "demographic_distributions_demo",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
